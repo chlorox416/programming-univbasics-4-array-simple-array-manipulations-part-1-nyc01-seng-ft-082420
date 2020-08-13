@@ -7,6 +7,5 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  [dog, cat, cow]
-    array.pop
-end  
+  array.pop
+end
